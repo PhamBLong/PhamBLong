@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhamBLong
 - 👀 I’m interested in make myseft better at coding
-- 🌱 I’m currently learning Asp.NET, Python , MongoDb
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0399312417
 - 😄 Pronouns: My Name :D
