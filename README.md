@@ -3,7 +3,7 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0399312417
-- 😄 Pronouns: My Name :D
+- 😄 Pronouns: 
 - ⚡ Fun fact: 
 
 <!---
